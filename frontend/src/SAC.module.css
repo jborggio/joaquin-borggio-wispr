@@ -1,0 +1,17 @@
+.top {
+    /* height: 40px;
+    width: 100px; */
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 100%;
+    background: #add8e6;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.name {
+    margin: 5px 20px 5px 5px;
+}
