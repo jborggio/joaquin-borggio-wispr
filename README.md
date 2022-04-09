@@ -4,6 +4,16 @@ Author: Joaquin Borggio
 
 Date: 4/8/2022
 
+**********************************
+
+![](frontend/public/app_img1.png)
+
+**********************************
+
+![](frontend/public/app_img2.png)
+
+**********************************
+
 <br/>
 
 **Frontend**:
