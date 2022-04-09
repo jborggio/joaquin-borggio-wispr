@@ -1,0 +1,7 @@
+Flask
+pyaudio
+wave
+flask_cors
+simpleaudio
+flask_sse
+uuid
