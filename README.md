@@ -7,7 +7,7 @@ Frontend:
 The frontend of this application is written in React and can be found in the /frontend folder.
 
 To boot up frontend:
-- run "npm install" to install required dependencies
+- run "npm install" within the /frontend folder to install required dependencies
 - run "npm start" to start a development application on localhost:3000
 
 You should now be able to access the application on http://localhost:3000
@@ -18,7 +18,7 @@ Backend:
 The backend of this application is a Flask (python) server and can be found in the /flask-server folder.
 
 To boot up backend:
-- run "pip install -r requirements.txt" in the terminal to install required dependencies
+- run "pip install -r requirements.txt" within the /flask-server folder to install required dependencies
 - run "flask run" in the terminal to start a development server. This will allow the react application to communicate with the Flask server.
 
 
