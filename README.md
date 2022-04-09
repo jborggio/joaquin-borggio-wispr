@@ -4,7 +4,7 @@ Date: 4/8/2022
 
 Frontend:
 
-The frontend of this application is written in React and can be found in the /react-app folder.
+The frontend of this application is written in React and can be found in the /frontend folder.
 
 To boot up frontend:
 - run "npm install" to install required dependencies
