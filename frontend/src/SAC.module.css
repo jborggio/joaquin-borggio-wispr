@@ -1,6 +1,4 @@
 .top {
-    /* height: 40px;
-    width: 100px; */
     display: flex;
     flex-flow: row nowrap;
     align-items: center;

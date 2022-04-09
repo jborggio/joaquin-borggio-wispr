@@ -30,7 +30,6 @@
   display: flex;
   flex-flow: row wrap;
   justify-content: center;
-  /* padding: 100px; */
   width: 100%;
   margin-bottom: 40px;
 }
