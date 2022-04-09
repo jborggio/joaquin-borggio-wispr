@@ -8,7 +8,7 @@ Date: 4/8/2022
 
 **Frontend**:
 
-The frontend of this application is written in React and can be found in the /frontend folder.
+The frontend of this application is written in React and can be found in the /frontend folder. The majority of the code of interest is in /frontend/src directory.
 
 To boot up frontend:
 - run `npm install` within the /frontend folder to install required dependencies
@@ -20,7 +20,7 @@ You should now be able to access the application on http://localhost:3000
 
 **Backend**:
 
-The backend of this application is a Flask (python) server and can be found in the /flask-server folder.
+The backend of this application is a Flask (python) server and can be found in the /flask-server folder. Almost all the code of interest can be found inside of app.py.
 
 To boot up backend:
 - run `pip install -r requirements.txt` within the /flask-server folder to install required dependencies
